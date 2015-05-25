@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/ecentric/bk_projects/Windy/app/build/pre-dexed/debug/javawriter-2.5.0-a9b420f97883de40fb9cc9685dfe0292b69f6c41.jar"
+        jar="/Users/ecentric/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.5.0/81241ff7078ef14f42ea2a8995fa09c096256e6b/javawriter-2.5.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81241ff7078ef14f42ea2a8995fa09c096256e6b"/>
+    <item
+        dex="/Users/ecentric/bk_projects/Windy/app/build/pre-dexed/debug/ForecastIOLib-1.5.1-jar-with-dependencies-cfb5be81ea8156dff0bed606b3c3c32d9bb55417.jar"
+        jar="/Users/ecentric/bk_projects/Windy/app/libs/ForecastIOLib-1.5.1-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd5adea312404ca85ae9862147e87be8651c452"/>
+    <item
+        dex="/Users/ecentric/bk_projects/Windy/app/build/pre-dexed/debug/guava-15.0-9a207d779954b4b107424bbfabbb4df56ec2c7ce.jar"
+        jar="/Users/ecentric/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/15.0/ed727a8d9f247e2050281cb083f1c77b09dcb5cd/guava-15.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed727a8d9f247e2050281cb083f1c77b09dcb5cd"/>
+    <item
+        dex="/Users/ecentric/bk_projects/Windy/app/build/pre-dexed/debug/javax.inject-1-f7f14865f85bb5de935b485a07ef1f1122a0aab5.jar"
+        jar="/Users/ecentric/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38"/>
+    <item
+        dex="/Users/ecentric/bk_projects/Windy/app/build/pre-dexed/debug/dagger-1.2.2-845634f5db218e0a92a0e0ef9f4aec667568d40f.jar"
+        jar="/Users/ecentric/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8"/>
+    <item
+        dex="/Users/ecentric/bk_projects/Windy/app/build/pre-dexed/debug/classes-73ad65c5ad671dc3534cf67c5b7d512ad943b3de.jar"
+        jar="/Users/ecentric/bk_projects/Windy/build/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/ecentric/bk_projects/Windy/app/build/pre-dexed/debug/dagger-compiler-1.2.2-4033a91f75dc50524f53201686d37f9a626e180e.jar"
+        jar="/Users/ecentric/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger-compiler/1.2.2/fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57/dagger-compiler-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fa9b2f9ae597cedf2a66ef3e60662ff36bb60e57"/>
+
+</pre-dex-items>

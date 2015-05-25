@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Windy</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="forecast_api_key">20d34b225c197075cbafab7c4745eea6</string>
+
+    <string-array name="main_menu_choices">
+        <item>Now</item>
+        <item>Forecast</item>
+        <item>Notifications</item>
+    </string-array>
+
+</resources>

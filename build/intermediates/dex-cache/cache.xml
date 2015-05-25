@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ecentric/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/ecentric/bk_projects/Windy/app/build/intermediates/pre-dexed/debug/javax.inject-1-f7f14865f85bb5de935b485a07ef1f1122a0aab5.jar" />
+    </item>
+    <item
+        jar="/Users/ecentric/bk_projects/Windy/app/libs/ForecastIOLib-1.5.1-jar-with-dependencies.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd5adea312404ca85ae9862147e87be8651c452">
+        <dex dex="/Users/ecentric/bk_projects/Windy/app/build/intermediates/pre-dexed/debug/ForecastIOLib-1.5.1-jar-with-dependencies-cfb5be81ea8156dff0bed606b3c3c32d9bb55417.jar" />
+    </item>
+    <item
+        jar="/Users/ecentric/.gradle/caches/modules-2/files-2.1/com.squareup.dagger/dagger/1.2.2/e8f912ee19ad84958510883ea191135276b091f8/dagger-1.2.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e8f912ee19ad84958510883ea191135276b091f8">
+        <dex dex="/Users/ecentric/bk_projects/Windy/app/build/intermediates/pre-dexed/debug/dagger-1.2.2-845634f5db218e0a92a0e0ef9f4aec667568d40f.jar" />
+    </item>
+    <item
+        jar="/Users/ecentric/bk_projects/Windy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/ecentric/bk_projects/Windy/app/build/intermediates/pre-dexed/debug/classes-2097cef8796aadc6a5abf93d07120f38b2709beb.jar" />
+    </item>
+    <item
+        jar="/Users/ecentric/Downloads/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/ecentric/bk_projects/Windy/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-5a7a6e80e510c60c4c4321fa10a59a1a16e1720a.jar" />
+    </item>
+
+</items>

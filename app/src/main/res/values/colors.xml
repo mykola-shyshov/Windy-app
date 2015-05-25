@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--- nice light color-->
+    <!--<item name="bk_main" type="color">#ff7cc7ad</item>-->
+    <!-- so bright-->
+    <!--<item name="main_bk" type="color">#ff55c5a6</item>-->
+    <!--<item name="main_bk" type="color">#ff7ebeb0</item>-->
+
+    <!-- light -->
+    <!--<item name="main_bk" type="color">#ff8fd8c6</item>-->
+    <!--<item name="main_font" type="color">#ff023243</item>-->
+
+    <!-- dark -->
+    <item name="main_bk" type="color">#ff045e6f</item>
+    <item name="main_font" type="color">#ffd7e7e6</item>
+
+    <item name="transparent" type="color">#00000000</item>
+
+</resources>
+
